@@ -9,4 +9,5 @@
 ### Developing a Custom Model
 * [Part 1](rice_image_classification.ipynb)
 * [Part 2](rice_image_classification_2.ipynb)
+  * [Notebook explaining how the pretrained weights for Part 2 were created.](pretraining_for_rice_image_classification2.ipynb)
 
